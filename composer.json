@@ -1,0 +1,20 @@
+{
+    "name": "sohanur/meethub2",
+    "description": "group eagle project",
+    "type": "project",
+    "license": "gnu",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Admin\\": "admin/"
+        },
+        "files": ["src/settings.php"]
+    },
+    "authors": [
+        {
+            "name": "groupEagle",
+            "email": "groupeagle@gmail.com"
+        }
+    ],
+    "require": {}
+}

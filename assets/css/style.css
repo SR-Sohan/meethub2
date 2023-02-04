@@ -1,0 +1,11 @@
+body{
+    background-color: #f1efef;
+}
+
+form{
+    width: 600px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+}
