@@ -8,7 +8,7 @@ $page = "Registration";
 <body>
 
     <div class="container">
-        <form class="shadow-lg" action="" method="post">
+        <form class="shadow-lg user-form" action="" method="post">
             <h1>Registration</h1>
             <hr>
             <div class="form-floating mb-3">
